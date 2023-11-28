@@ -136,6 +136,18 @@
 }
 
 @media (max-width: 450px) {
+    #header{
+        background: white;
+    }
+
+    .join-block-text{
+        width: 100%;
+    }
+    
+    .dark > #header{
+        background: #1F2E35;
+    }
+    
     .manager-text p,
     .coll-text p,
     .customer-group p,
