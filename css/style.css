@@ -1000,10 +1000,25 @@ body {
 
 .dark .footer a,
 .dark .footer h1,
+.dark .footer h4,
 .dark .footer h3,
 .dark .footer h2 {
     color: white;
 }
+
+.footer-logo-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-logo-text h4{
+    color: #173A56;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 16px;
+}
+
 
 /*footer end*/
 
